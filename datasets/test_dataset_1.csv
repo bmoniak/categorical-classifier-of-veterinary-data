@@ -1,0 +1,25 @@
+breed,sex,age,cancer_type
+German Shepherd Dog,MALE,9,lymphoma
+Beagle,MALE,15,lymphoma
+Beagle,FEMALE,10,lymphoma
+Beagle,FEMALE,10,lymphoma
+Boxer,FEMALE,10.1,lymphoma
+Samoyed,FEMALE,8,lymphoma
+Golden Retriever,MALE,10.3,lymphoma
+Black and Tan Coonhound,MALE,8,lymphoma
+Pug,FEMALE,0.75,histiocytoma
+Beagle,MALE,1,histiocytoma
+Bavarian Mountain Hound,FEMALE,1.6,histiocytoma
+Labrador Retriever,FEMALE,0.5,histiocytoma
+Pug,MALE,1,histiocytoma
+Mixed Breed,FEMALE,1,histiocytoma
+Pug,MALE,3,histiocytoma
+Cavalier King Charles Spaniel,FEMALE,2,histiocytoma
+Pug,MALE,7,mastocytoma
+Pug,MALE,6,mastocytoma
+Boxer,FEMALE,7,mastocytoma
+Beagle,FEMALE,12,mastocytoma
+American Staffordshire Terrier,FEMALE,5,mastocytoma
+Cocker Spaniel,MALE,9,mastocytoma
+Labrador Retriever,FEMALE,7,mastocytoma
+American Staffordshire Terrier,FEMALE,6,mastocytoma

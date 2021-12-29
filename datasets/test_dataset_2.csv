@@ -1,0 +1,283 @@
+breed,sex,age,cancer_type
+Labrador Retriever,FEMALE,0.4,histiocytoma
+Cocker Spaniel,FEMALE,0.5,histiocytoma
+Labrador Retriever,FEMALE,0.5,histiocytoma
+American Staffordshire Terrier,MALE,0.5,histiocytoma
+Shar Pei,MALE,0.5,histiocytoma
+English Springer Spaniel,FEMALE,0.5,histiocytoma
+Pug,FEMALE,0.6,histiocytoma
+Scottish Terrier,MALE,0.6,histiocytoma
+Shar Pei,MALE,0.6,histiocytoma
+Shar Pei,FEMALE,0.6,histiocytoma
+Shetland Sheepdog,MALE,0.7,histiocytoma
+Pug,FEMALE,0.7,histiocytoma
+Labrador Retriever,FEMALE,0.7,histiocytoma
+Boxer,MALE,0.8,histiocytoma
+Pug,FEMALE,0.8,histiocytoma
+Scottish Terrier,MALE,0.8,histiocytoma
+Great Dane,MALE,0.8,histiocytoma
+Rottweiler,FEMALE,0.8,histiocytoma
+Beagle,MALE,0.9,histiocytoma
+Cocker Spaniel,MALE,0.9,histiocytoma
+Shar Pei,MALE,1.0,histiocytoma
+Beagle,MALE,1.0,histiocytoma
+Pug,MALE,1.0,histiocytoma
+Mixed Breed,FEMALE,1.0,histiocytoma
+Rottweiler,FEMALE,1.0,histiocytoma
+Beagle,MALE,1.1,histiocytoma
+Dachshund,FEMALE,1.1,histiocytoma
+American Staffordshire Terrier,MALE,1.1,histiocytoma
+Doberman Pinscher,FEMALE,1.1,histiocytoma
+Pug,MALE,1.2,histiocytoma
+Mixed Breed,FEMALE,1.2,histiocytoma
+Labrador Retriever,FEMALE,1.2,histiocytoma
+Mixed Breed,FEMALE,1.3,histiocytoma
+American Staffordshire Terrier,FEMALE,1.3,histiocytoma
+Miniature Schnauzer,MALE,1.4,histiocytoma
+Bernese Mountain Dog,FEMALE,1.4,lymphoma
+Cocker Spaniel,FEMALE,1.5,histiocytoma
+Bavarian Mountain Hound,FEMALE,1.6,histiocytoma
+Pug,MALE,1.6,histiocytoma
+Doberman Pinscher,FEMALE,1.6,histiocytoma
+Doberman Pinscher,MALE,1.7,histiocytoma
+Great Dane,FEMALE,1.7,histiocytoma
+Labrador Retriever,MALE,1.7,histiocytoma
+Bavarian Mountain Hound,FEMALE,1.7,histiocytoma
+Doberman Pinscher,MALE,1.7,histiocytoma
+Great Dane,FEMALE,1.8,histiocytoma
+Cocker Spaniel,MALE,1.8,histiocytoma
+Miniature Schnauzer,FEMALE,1.8,histiocytoma
+Bavarian Mountain Hound,FEMALE,1.8,histiocytoma
+West Highland White Terrier,FEMALE,1.8,histiocytoma
+American Staffordshire Terrier,MALE,1.9,histiocytoma
+Shetland Sheepdog,FEMALE,1.9,histiocytoma
+Dachshund,MALE,1.9,histiocytoma
+Shetland Sheepdog,MALE,1.9,histiocytoma
+Cavalier King Charles Spaniel,FEMALE,2.0,histiocytoma
+Dachshund,FEMALE,2.0,histiocytoma
+Boxer,MALE,2.0,lymphoma
+English Springer Spaniel,MALE,2.1,histiocytoma
+Labrador Retriever,FEMALE,2.1,histiocytoma
+Miniature Schnauzer,FEMALE,2.2,histiocytoma
+Cavalier King Charles Spaniel,FEMALE,2.2,histiocytoma
+Scottish Terrier,MALE,2.2,histiocytoma
+American Staffordshire Terrier,MALE,2.2,histiocytoma
+Boxer,FEMALE,2.2,histiocytoma
+Miniature Schnauzer,MALE,2.2,histiocytoma
+Cavalier King Charles Spaniel,FEMALE,2.3,histiocytoma
+Shetland Sheepdog,FEMALE,2.3,histiocytoma
+Great Dane,FEMALE,2.3,histiocytoma
+Labrador Retriever,MALE,2.4,histiocytoma
+Labrador Retriever,FEMALE,2.4,histiocytoma
+Shar Pei,FEMALE,2.4,histiocytoma
+American Staffordshire Terrier,MALE,2.4,lymphoma
+Pug,MALE,2.5,histiocytoma
+Boxer,FEMALE,2.5,histiocytoma
+English Springer Spaniel,FEMALE,2.5,histiocytoma
+West Highland White Terrier,MALE,2.6,histiocytoma
+Doberman Pinscher,MALE,2.6,histiocytoma
+Shetland Sheepdog,MALE,2.6,histiocytoma
+West Highland White Terrier,FEMALE,2.7,histiocytoma
+West Highland White Terrier,MALE,2.7,histiocytoma
+English Springer Spaniel,MALE,2.8,histiocytoma
+Dachshund,MALE,3.0,histiocytoma
+Pug,MALE,3.0,histiocytoma
+Dachshund,MALE,3.0,histiocytoma
+Scottish Terrier,MALE,3.0,histiocytoma
+Border Collie,MALE,3.0,lymphoma
+Rottweiler,FEMALE,3.0,lymphoma
+Rottweiler,FEMALE,3.1,histiocytoma
+Great Dane,FEMALE,3.1,histiocytoma
+English Springer Spaniel,FEMALE,3.1,histiocytoma
+Boxer,MALE,3.2,histiocytoma
+Miniature Schnauzer,FEMALE,3.2,histiocytoma
+Rottweiler,FEMALE,3.2,histiocytoma
+Mixed Breed,MALE,3.2,lymphoma
+Scottish Terrier,FEMALE,3.3,histiocytoma
+Cocker Spaniel,MALE,3.3,histiocytoma
+Rottweiler,FEMALE,3.3,histiocytoma
+Boxer,MALE,3.3,histiocytoma
+Bernese Mountain Dog,MALE,3.3,lymphoma
+West Highland White Terrier,MALE,3.4,histiocytoma
+Pug,MALE,3.6,histiocytoma
+Doberman Pinscher,MALE,3.7,lymphoma
+Shar Pei,FEMALE,3.8,mastocytoma
+Shar Pei,MALE,3.8,mastocytoma
+Mixed Breed,MALE,4.0,lymphoma
+Bernese Mountain Dog,FEMALE,4.1,lymphoma
+Shar Pei,MALE,4.1,mastocytoma
+Golden Retriever,MALE,4.2,lymphoma
+Beagle,MALE,4.2,lymphoma
+Flat-Coated Retriever,FEMALE,4.2,lymphoma
+Shar Pei,FEMALE,4.2,mastocytoma
+Bullmastiff,MALE,4.3,lymphoma
+German Shepherd Dog,FEMALE,4.5,lymphoma
+Mixed Breed,FEMALE,4.5,lymphoma
+Labrador Retriever,FEMALE,4.6,lymphoma
+Rottweiler,FEMALE,4.6,lymphoma
+Mastiff,FEMALE,4.7,lymphoma
+Boxer,MALE,4.7,lymphoma
+Mixed Breed,MALE,4.8,lymphoma
+Doberman Pinscher,MALE,4.9,lymphoma
+Mixed Breed,FEMALE,5.0,lymphoma
+Chesapeake Bay Retriever,FEMALE,5.0,lymphoma
+Mixed Breed,FEMALE,5.0,lymphoma
+Mixed Breed,MALE,5.0,lymphoma
+American Staffordshire Terrier,FEMALE,5.0,mastocytoma
+American Staffordshire Terrier,MALE,5.0,mastocytoma
+American Staffordshire Terrier,FEMALE,5.1,mastocytoma
+Golden Retriever,FEMALE,5.2,lymphoma
+Rottweiler,MALE,5.2,lymphoma
+Cavalier King Charles Spaniel,MALE,5.4,lymphoma
+American Staffordshire Terrier,FEMALE,5.8,lymphoma
+Mixed Breed,MALE,5.8,lymphoma
+Golden Retriever,FEMALE,5.9,lymphoma
+Bullmastiff,MALE,5.9,lymphoma
+Boxer,MALE,6.0,lymphoma
+Mixed Breed,FEMALE,6.0,lymphoma
+Golden Retriever,FEMALE,6.0,lymphoma
+Pug,MALE,6.0,mastocytoma
+American Staffordshire Terrier,FEMALE,6.0,mastocytoma
+Pug,FEMALE,6.0,mastocytoma
+American Staffordshire Terrier,MALE,6.0,mastocytoma
+Mixed Breed,MALE,6.1,lymphoma
+American Staffordshire Terrier,FEMALE,6.1,mastocytoma
+Dachshund,MALE,6.1,mastocytoma
+Pug,FEMALE,6.1,mastocytoma
+Boston Terrier,FEMALE,6.1,mastocytoma
+Golden Retriever,FEMALE,6.2,lymphoma
+Irish Wolfhound,MALE,6.2,lymphoma
+Boston Terrier,MALE,6.2,mastocytoma
+Bull Terrier,MALE,6.2,mastocytoma
+Pug,MALE,6.2,mastocytoma
+Dachshund,MALE,6.2,mastocytoma
+Labrador Retriever,FEMALE,6.3,mastocytoma
+Rottweiler,MALE,6.4,lymphoma
+Labrador Retriever,FEMALE,6.4,mastocytoma
+Weimaraner,FEMALE,6.4,mastocytoma
+Labrador Retriever,MALE,6.5,lymphoma
+Bernese Mountain Dog,MALE,6.5,lymphoma
+Pug,MALE,6.6,mastocytoma
+Golden Retriever,MALE,6.7,lymphoma
+Basset Hound,FEMALE,6.7,lymphoma
+Golden Retriever,FEMALE,6.7,mastocytoma
+Boxer,MALE,6.7,mastocytoma
+Boxer,MALE,7.0,lymphoma
+Gordon Setter,FEMALE,7.0,lymphoma
+Mixed Breed,MALE,7.0,lymphoma
+Mixed Breed,FEMALE,7.0,lymphoma
+Vizsla,MALE,7.0,lymphoma
+Pug,MALE,7.0,mastocytoma
+Pug,MALE,7.0,mastocytoma
+Golden Retriever,MALE,7.0,mastocytoma
+Boxer,MALE,7.0,mastocytoma
+Pug,FEMALE,7.0,mastocytoma
+Boxer,FEMALE,7.0,mastocytoma
+Labrador Retriever,FEMALE,7.0,mastocytoma
+Saint Bernard,MALE,7.1,lymphoma
+Bernese Mountain Dog,MALE,7.1,lymphoma
+Pug,MALE,7.1,mastocytoma
+Boxer,MALE,7.1,mastocytoma
+Fox Terrier,MALE,7.1,mastocytoma
+Labrador Retriever,FEMALE,7.1,mastocytoma
+Mixed Breed,FEMALE,7.2,lymphoma
+Labrador Retriever,FEMALE,7.2,mastocytoma
+German Shepherd Dog,FEMALE,7.3,lymphoma
+American Staffordshire Terrier,MALE,7.3,lymphoma
+Dachshund,MALE,7.4,mastocytoma
+American Staffordshire Terrier,FEMALE,7.5,mastocytoma
+Fox Terrier,MALE,7.5,mastocytoma
+American Staffordshire Terrier,FEMALE,7.6,mastocytoma
+Boxer,FEMALE,7.7,mastocytoma
+English Setter,MALE,7.8,lymphoma
+American Staffordshire Terrier,MALE,7.8,mastocytoma
+Bulldog,FEMALE,7.8,mastocytoma
+Boxer,MALE,7.9,mastocytoma
+Boston Terrier,FEMALE,7.9,mastocytoma
+Labrador Retriever,FEMALE,7.9,mastocytoma
+Boxer,MALE,8.0,lymphoma
+Samoyed,FEMALE,8.0,lymphoma
+Black and Tan Coonhound,MALE,8.0,lymphoma
+Golden Retriever,MALE,8.0,lymphoma
+Mixed Breed,MALE,8.0,lymphoma
+Mixed Breed,MALE,8.0,lymphoma
+Samoyed,FEMALE,8.0,lymphoma
+Black and Tan Coonhound,MALE,8.0,lymphoma
+American Staffordshire Terrier,MALE,8.0,mastocytoma
+Belgian Malinois,MALE,8.1,lymphoma
+Labrador Retriever,FEMALE,8.1,mastocytoma
+Weimaraner,FEMALE,8.2,mastocytoma
+Bulldog,FEMALE,8.3,mastocytoma
+Border Collie,MALE,8.4,lymphoma
+Bull Terrier,FEMALE,8.6,mastocytoma
+Boston Terrier,FEMALE,8.6,mastocytoma
+Golden Retriever,FEMALE,8.7,lymphoma
+Beagle,MALE,8.7,mastocytoma
+Bull Terrier,MALE,8.7,mastocytoma
+Fox Terrier,MALE,8.7,mastocytoma
+American Staffordshire Terrier,MALE,8.8,mastocytoma
+Beagle,FEMALE,8.8,mastocytoma
+Fox Terrier,FEMALE,8.8,mastocytoma
+Beagle,MALE,8.8,mastocytoma
+Bulldog,MALE,8.8,mastocytoma
+Fox Terrier,FEMALE,8.8,mastocytoma
+Bullmastiff,MALE,8.9,lymphoma
+Golden Retriever,MALE,8.9,lymphoma
+Beagle,MALE,8.9,mastocytoma
+Irish Setter,FEMALE,9.0,lymphoma
+German Shepherd Dog,MALE,9.0,lymphoma
+Cocker Spaniel,MALE,9.0,mastocytoma
+Bulldog,FEMALE,9.0,mastocytoma
+Weimaraner,FEMALE,9.0,mastocytoma
+Cocker Spaniel,FEMALE,9.0,mastocytoma
+Boston Terrier,FEMALE,9.0,mastocytoma
+Cocker Spaniel,MALE,9.1,lymphoma
+Labrador Retriever,FEMALE,9.1,mastocytoma
+Pug,MALE,9.1,mastocytoma
+Cocker Spaniel,FEMALE,9.2,mastocytoma
+Dachshund,MALE,9.2,mastocytoma
+Golden Retriever,FEMALE,9.4,mastocytoma
+Beagle,MALE,9.5,lymphoma
+Weimaraner,FEMALE,9.5,mastocytoma
+Pug,FEMALE,9.5,mastocytoma
+Golden Retriever,FEMALE,9.6,mastocytoma
+Boxer,FEMALE,9.6,mastocytoma
+German Shepherd Dog,MALE,9.7,lymphoma
+Mixed Breed,FEMALE,9.7,lymphoma
+Basset Hound,MALE,9.7,lymphoma
+Weimaraner,MALE,9.7,mastocytoma
+Beagle,MALE,9.7,mastocytoma
+Bulldog,FEMALE,9.7,mastocytoma
+Boxer,MALE,9.8,mastocytoma
+Bull Terrier,MALE,9.8,mastocytoma
+Beagle,MALE,9.9,lymphoma
+Golden Retriever,MALE,9.9,mastocytoma
+Dachshund,FEMALE,9.9,mastocytoma
+Golden Retriever,MALE,10.0,lymphoma
+American Staffordshire Terrier,FEMALE,10.0,lymphoma
+Beagle,FEMALE,10.0,lymphoma
+Beagle,FEMALE,10.0,lymphoma
+Bull Terrier,MALE,10.0,mastocytoma
+Scottish Terrier,FEMALE,10.1,lymphoma
+Boxer,FEMALE,10.1,lymphoma
+Boxer,FEMALE,10.1,lymphoma
+Boxer,FEMALE,10.1,lymphoma
+Boxer,FEMALE,10.2,lymphoma
+Golden Retriever,MALE,10.3,lymphoma
+Golden Retriever,MALE,10.3,lymphoma
+Golden Retriever,MALE,10.5,lymphoma
+Australian Shepherd,MALE,10.6,lymphoma
+Labrador Retriever,FEMALE,11.0,lymphoma
+Irish Setter,MALE,11.2,lymphoma
+Saint Bernard,MALE,11.5,lymphoma
+Beagle,FEMALE,11.5,lymphoma
+Golden Retriever,MALE,11.5,lymphoma
+Basset Hound,MALE,11.8,lymphoma
+Golden Retriever,MALE,12.0,lymphoma
+Beagle,FEMALE,12.0,mastocytoma
+Beagle,MALE,12.0,mastocytoma
+Mixed Breed,MALE,12.2,lymphoma
+Mixed Breed,FEMALE,12.6,lymphoma
+Mixed Breed,MALE,13.0,lymphoma
+Beagle,FEMALE,13.5,mastocytoma
+Beagle,MALE,15.0,lymphoma
